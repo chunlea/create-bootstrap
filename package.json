@@ -1,0 +1,12 @@
+{
+  "name": "create-bootstrap",
+  "version": "1.0.0",
+  "description": "A project template used in our company, with Create React App and Phoenix Framework integrated.",
+  "main": "index.js",
+  "repository": "chunlea/create-bootstrap",
+  "author": "Chunlea <ju@chunlea.com> (https://www.chunlea.com)",
+  "license": "MIT",
+  "bin": {
+    "create-bootstrap": "./index.js"
+  }
+}
